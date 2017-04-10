@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyOwnSunshine</string>
+    <string name="setting">action_setting</string>
+    <string name="settings">action_settings</string>
+</resources>
